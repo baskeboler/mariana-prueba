@@ -1,0 +1,6 @@
+comandos importantes:
+
+* git init <--- crear un repositorio
+* git add <-- agregar cosas al repo 
+* git commit <-- registrar cambios en el repo
+* git status <-- te muestra el estado actual 
