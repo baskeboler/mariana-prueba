@@ -4,3 +4,4 @@ comandos importantes:
 * git add <-- agregar cosas al repo 
 * git commit <-- registrar cambios en el repo
 * git status <-- te muestra el estado actual 
+* git clone <-- clonar un repositorio existente.
